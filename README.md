@@ -1,12 +1,14 @@
+<img align="right" src="https://cdn-icons-png.flaticon.com/512/6509/6509613.png" width="220" alt="Programming illustration">
+
 ## Hi there 👋
 
 I'm **Raana**, an Electrical & Computer Engineering Student at the University of Southern California from Brooklyn, NY. 
 
-My family is orginally from Ghana. I enjoy building projects that create a **social impact**. 
+My family is orginally from Ghana. I enjoy building projects that create tangible **social impact**. 
 
-My main tech stack is python, C++, and HTML/CSS. 
+My main tech stack is **python, C++, and HTML/CSS**. 
 
-The project I am currently working on is creating a platform that I can use to learn the unwritten language of my hometown, Waale.
+The project I am currently working on is creating a platform designed to help people learn the unwritten language of my hometown, Waale.
 
 Fun facts about me:
 - I am a twin
