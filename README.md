@@ -1,8 +1,17 @@
 ## Hi there 👋
 
-I'm Raana, an Electrical & Computer Engineering Student at the University of Southern California from Brooklyn, NY. 
+I'm **Raana**, an Electrical & Computer Engineering Student at the University of Southern California from Brooklyn, NY. 
 
-I enjoy building projects that create a social impact.
+My family is orginally from Ghana. I enjoy building projects that create a **social impact**. 
+
+My main tech stack is python, C++, and HTML/CSS. 
+
+The project I am currently working on is creating a platform that I can use to learn the unwritten language of my hometown, Waale.
+
+Fun facts about me:
+- I am a twin
+- I can say the abc's under three seconds
+
 
 
 
