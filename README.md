@@ -1,4 +1,9 @@
-<img align="right" src="https://cdn-icons-png.flaticon.com/512/6509/6509613.png" width="220" alt="Programming illustration">
+<br><br><br>
+
+<img align="right"
+     src="https://cdn-icons-png.flaticon.com/512/6509/6509613.png"
+     width="220"
+     alt="Programming illustration">
 
 ## Hi there 👋
 
