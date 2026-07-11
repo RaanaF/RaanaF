@@ -1,10 +1,3 @@
-<br>
-
-<img align="right"
-     src="https://cdn-icons-png.flaticon.com/512/6509/6509613.png"
-     width="220"
-     alt="Programming illustration">
-
 ## Hi there 👋
 
 I'm **Raana**, an Electrical & Computer Engineering Student at the University of Southern California from Brooklyn, NY. 
