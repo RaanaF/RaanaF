@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm Raana, an Electrical & Computer Engineering Student at the University of Southern California from Brooklyn, NY. 
+
+I enjoy building projects that create a social impact.
+
+
+
 <!--
 **RaanaF/RaanaF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
